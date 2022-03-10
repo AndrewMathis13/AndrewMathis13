@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BenjMathis1
+- 👋 Hi, I’m Benjamin Mathis!
 - 👀 I’m interested in Design, Web tech, and almost anything Microsoft.
-- 🌱 I’m currently learning html and other web-related stuff.
+- 🌱 I’m currently learning html/CSS and other web-related stuff.
 - 📫 You can reach me on Twitter @ https://twitter.com/BenjMathis1
 
 <!---
