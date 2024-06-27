@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Benjamin Mathis!
+- 👋 Hi, I’m Andrew Mathis!
 - 👀 I’m interested in UI/UX Design and Web tech.
 - 🌱 I’m just getting started in html/CSS and other web-related stuff.
 - 📫 You can reach me [@BenjMathis1@techhub.social](https://techhub.social/@BenjMathis1) or find me elsewhere at https://linktr.ee/benjmathis1
